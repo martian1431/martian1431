@@ -1,5 +1,46 @@
-### Hi there 👋, I am Macmillian!
+<h1 align='center'>
+  Hi there 👋 I'm Macmillian 👨‍💻
+</h1>
 
+<p align='center'>
+  A Software developer from Mpumalanga, South Africa.
+</p>
+
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/phetho-macmillian-malope-8a61b4187/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/martian1431">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>phetomalope@gmail.com</a>
+</p>
+
+<!--
 ###### *About me*
 - 💻 Junior developer
 - 📜 Big fan of Java
@@ -45,6 +86,8 @@
 ### 📫 How to reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phetho-macmillian-malope-8a61b4187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='instagram' height='40'>](https://www.facebook.com/martian1431/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/martian1431)
+
+-->
 
 <!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
