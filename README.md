@@ -23,9 +23,6 @@
 <p align="center">
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-<p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martian1431&theme=dark" width="350"></a>
-</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -33,6 +30,10 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martian1431&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
