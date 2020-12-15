@@ -68,7 +68,7 @@
 <img align="left" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-
+<br/>
 - 👨‍💻 **Junior Developer**\
 📆 2020 - Feb - May\
 📍 **BBD** - Johannesburg, South Africa
