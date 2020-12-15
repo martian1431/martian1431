@@ -44,7 +44,48 @@
   📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>phetomalope@gmail.com</a>
 </p>
 
+<details>
+  <summary>📃 My Resume</summary>
+
+
+## Education
+
+- 📖 **Software Engineering**\
+📆 2019 - 2021\
+📍 **WeThinkCode_**
+
+- 📖 **N+ Networking**\
+📆 2014 - 2015\
+📍 **Academy Training Group**
+
+- 📖 **A+ PC Technician**\
+📆 2012 - 2013\
+📍 **Academy Training Group**
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+
+- 👨‍💻 **Junior Developer**\
+📆 2020 - Feb - May\
+📍 **BBD** - Johannesburg, South Africa
+
+</details>
+
 <!--
+<details>
+  <summary>📦 My Packages</summary>
+    
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
+| [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
+  
+</details>
+
+
 ###### *About me*
 - 💻 Junior developer
 - 📜 Big fan of Java
@@ -91,9 +132,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phetho-macmillian-malope-8a61b4187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='instagram' height='40'>](https://www.facebook.com/martian1431/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/martian1431)
 
--->
 
-<!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -106,4 +145,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
