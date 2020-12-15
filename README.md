@@ -24,7 +24,7 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-💻 <h3 align='center'>My workspace</h3>
+<h3 align='center'>💻 My workspace</h3>
 <p align='center'>
   <br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
