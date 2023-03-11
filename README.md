@@ -6,11 +6,11 @@
 Software Engineer graduate from WeThinkCode_ with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. I'm well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator, Strategic thinker, and innovative creator to develop software that is customized to meet a company's organizational needs, highlight their core competencies and further their success.
 </p> -->
 
-<p align='center'>
+<!--<p align='center'>
   
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+  <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/phetho-macmillian-malope-8a61b4187/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
+</p>-->
 
 <p align="center">
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -31,6 +31,10 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
   <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align="center">
