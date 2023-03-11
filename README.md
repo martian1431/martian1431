@@ -1,10 +1,10 @@
 <h1 align='center'>
-  Hi there 👋 my name is Phetho Macmillian Malope
+  Hi there 👋 Welcome to my Github profile.
 </h1>
 
-<p align='center'>
+<!--<p align='center'>
 Software Engineer graduate from WeThinkCode_ with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. I'm well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator, Strategic thinker, and innovative creator to develop software that is customized to meet a company's organizational needs, highlight their core competencies and further their success.
-</p>
+</p> -->
 
 <p align='center'>
   
