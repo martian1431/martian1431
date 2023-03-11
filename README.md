@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Macmillian 👨‍💻
+  Hi there 👋 My name is Phetho Macmillian Malope 👨‍💻
 </h1>
 
 <p align='center'>
