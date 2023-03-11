@@ -32,12 +32,12 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
 <p align='center'>
   <br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/amd-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-
+<!--
 <details>
   <summary>📃 My Resume</summary>
 ## Education
@@ -66,6 +66,7 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
 📍 **BBD** - Johannesburg, South Africa
 
 </details>
+-->
 <!--
 <details>
   <summary>📦 My Packages</summary>
