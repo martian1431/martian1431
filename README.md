@@ -24,6 +24,10 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martian1431&theme=dark" width="350"></a>
+</p>
+
 <h3 align='center'>💻 My workspace</h3>
 <p align='center'>
   <br/>
@@ -33,26 +37,9 @@ Software Engineer graduate from WeThinkCode_ with a passion for developing innov
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martian1431&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>phetomalope@gmail.com</a>
-</p>
 
 <details>
   <summary>📃 My Resume</summary>
-
-
 ## Education
 
 - 📖 **Software Engineering**\
